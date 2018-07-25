@@ -1,0 +1,300 @@
+?Cómo puedo recibir un reembolso mediante tarjeta?	¿Cómo puedo recibir un reembolso?	1
+?Cómo puedo recibir un reembolso mediante tarjeta?	¿Cómo puedo recibir un reembolso si mi banco ha ido a bancarrota?	0
+?No he podido pagar con mi tarjeta, que debo hacer?	No puedo pagar con mi tarjeta de débito, ¿qué puedo hacer?	1
+?No he podido pagar con mi tarjeta, que debo hacer?	No puedo pagar mi pedido con tarjeta Visa de débito, ¿qué puedo hacer?	1
+?No he podido pagar con mi tarjeta, que debo hacer?	No puedo pagar con tarjeta.	1
+?Por qué no se ha podido procesar mi pago por razones de seguridad?	¿Por qué el pedido ha sido cerrado por razones de seguridad?	0
+?Cuándo recibiré mi reembolso si pago con tarjeta de crédito?	¿Me cobran tarifa de servicio si pago mis pedidos con tarjeta de crédito?	0
+?Qué pasará después de abrir una disputa?	¿Qué pasará después de escalar la disputa?	0
+?Qué pasará después de abrir una disputa?	Quiero abrir una disputa.	0
+?Por qué ha sido finalizado mi pedido por razones de seguridad?	¿Por qué mi pedido está cerrado otra vez por razones de seguridad?	0
+El producto que he recibido no corresponde con la descripción. ?Qué puedo hacer?	He pagado con mi tarjeta de crédito dos veces por el mismo producto. ¿Qué puedo hacer?	0
+?Por qué se ha cerrado mi pedido?	¿Por qué no se ha cancelado mi pedido?	0
+?Por qué se ha cerrado mi pedido?	He pagado, pero el pedido se ha cerrado por no pagar. ¿Qué puedo hacer?	0
+?Por qué se ha cerrado mi pedido?	¿Por qué mi transacción se ha congelado?	0
+?Cómo utilizo el Servicio de Garantía de un Año?	¿Cómo uso el Servicio de Garantía de un año?	1
+?Cómo utilizo el Servicio de Garantía de un Año?	¿Cómo uso el Servicio de Garantía?	1
+?Por qué mi pedido está en verificación tras el pago?	¿Por qué mi pedido está cerrado con el pago deducido?	0
+?Por qué tarda tanto que mi pago se procese?	¿Por qué mi envío tarda tanto?	0
+?Por qué se ha congelado mi pedido?	¿Por qué se ha cancelado el pedido?	0
+?Por qué no puedo usar mi Cupón Selección?	¿Por qué no puedo usar PayPal	0
+?Por qué no puedo usar mi Cupón Selección?	¿Por qué no puedo usar mi tarjeta de crédito?	0
+?Cómo puedo recibir un reembolso con la tarjeta de crédito?	¿Cómo recibo un reembolso por tarjeta de crédito?	1
+?Cómo puedo recibir un reembolso con la tarjeta de crédito?	¿Cómo puedo pagar los productos con tarjeta de crédito?	0
+?Como puedo pagar mediante Mercado Pago?	¿Por qué no puedo pagar con Mercado Pago?	0
+El producto recibido no es bueno, no funciona, ?qué puedo hacer?	El paquete no es el mío. ¿Qué puedo hacer?	0
+?Cómo encuentro un producto?	¿Cómo encuentro un vendedor?	0
+?Cómo encuentro un producto?	¿Cómo encuentro compradores?	0
+?Cómo hago un pedido?	¿Cómo hago mi pedido?	1
+El vendedor es un fraude. ?Cómo le puedo informar?	Le envié un email al vendedor. ¿Cómo leo la respuesta y cómo sé cuándo responden?	0
+?Cómo recupero un cupón?	¿Cómo recibo mi cupón de vuelta?	0
+?Cómo pagar el pedido mediante Transferencia Bancaria?	¿Cómo pago con transferencia bancaria?	1
+?Cómo pagar el pedido mediante Transferencia Bancaria?	El vendedor no acepta transferencia bancaria.	0
+Cómo pagar con Western Union	¿Cómo puedo pagar con Western Union?	1
+Como puedo recibir un reembolso mediante Mercado Pago.	¿Cómo recibo un reembolso por Mercado Pago?	1
+?Por qué no puedo realizar el pago?	¿Por qué mi pago fue denegado por el banco?	1
+El nombre o la contraseña de su cuenta es incorrecto.	Su nombre de cuenta o contraseña es incorrecta.	1
+?Cómo cambio mi dirección de email?	¿Cómo cambio la dirección de email registrada?	1
+?Cómo cambio mi dirección de email?	¿Cómo cambio el email de mi cuenta?	1
+?Cómo cambio mi dirección de email?	¿Cómo cambio el email?	1
+NO PUEDO PAGAR	¿Puedo pagar por correo?	1
+NO PUEDO PAGAR	No puedo pagar por Moneybookers.	1
+?Por qué no se ha pagado mi pedido?	¿Por qué mi pedido no ha sido pagado?	1
+El vendedor no responde a mi disputa	¿Qué pasará si el vendedor no responde a mi disputa?	0
+?Cómo recuperar un cupón?	¿Cómo puedo usar un cupón?	0
+Como puedo recibir un reembolso mediante Western Union.	Reembolso por Western Union.	1
+?Cómo hago una valoración?	¿Cómo cancelo una valoración?	0
+?Por qué me sale un error al intentar pagar?	¿Por qué no sale Mi Apelación?	0
+?Por qué me sale un error al intentar pagar?	¿Por qué sigo recibiendo un error cuando intento pagar mis cosas?	1
+?Por qué el pago ha sido deducido dos veces?	¿Por qué el pago ha sido hecho dos veces en mi tarjeta de crédito?	1
+?Por qué el pago ha sido deducido dos veces?	¿Por qué he sido cobrado dos veces?	1
+?Por qué el pago ha sido deducido dos veces?	¿Por qué me han cobrado dos veces?	1
+?Por qué el pago ha sido deducido dos veces?	¿Por qué se me cobró dos veces?	1
+¿Qué pasará después de abrir una disputa?	¿Qué pasará después de dejar una valoración?	0
+?Cómo puedo combinar varios pedidos en un solo pago?	¿Cómo puedo combinar múltiples pedidos en un solo pago?	1
+?Cómo puedo combinar varios pedidos en un solo pago?	¿Cómo puedo pagar mis pedidos en un solo pago?	1
+?Cómo recuperar mi contraseña?	¿Cómo puedo recuperar mi contraseña?	1
+?Cómo recuperar mi contraseña?	He perdido mi contraseña.	0
+El reembolso ha sido aceptado pero no aparece en mi banco	Dice que el reembolso ya ha sido aceptado, pero no aparece en mi banco.	1
+?Por qué no se han pagado mis pedidos y sin embargo me han descontado el dinero de la cuenta?	¿Por qué mis fotos para el vendedor no se han subido?	0
+?Cómo puedo confirmar la entrega una vez que he recibido mi pedido?	¿Puedo abrir una disputa después de confirmar que he recibido un pedido?	0
+?Cómo puedo confirmar la entrega una vez que he recibido mi pedido?	¿Cómo puedo cambiar la talla de algo que he pedido?	0
+?Cómo consigo cupones o descuentos?	¿Dónde consigo mis cupones?	1
+?Cómo consigo cupones o descuentos?	¿Cómo consigo entrega más rápida?	0
+?Cómo elimino un pedido?	¿Cómo elimino un mensaje del pedido?	0
+?Cómo elimino un pedido?	¿Cómo puedo eliminar mi pedido?	1
+?Cómo puedo extender el tiempo de protección del comprador?	¿Cómo extiendo el tiempo de Protección del Comprador?	1
+El sistema está ocupado	Dice que el sistema no está disponible.	0
+El sistema está ocupado	¿Está caído su sistema de pago?	0
+El vendedor no ha realizado el reembolso o reenviado mi pedido, he intentado ponerme en contacto con él, pero me ignora	El vendedor prometió que si cancelaba la disputa me haría el reembolso. ¿Puedo confiar en él?	0
+El vendedor no ha realizado el reembolso o reenviado mi pedido, he intentado ponerme en contacto con él, pero me ignora	He intentado hacer el seguimiento del envío con el número a través de EMS, pero no sale nada.	0
+?Cómo puedo pagar con WebMoney?	¿Cómo pago con WebMoney?	1
+?Cómo seguir mi pedido?	¿Cómo cambio mi pedido?	0
+?Qué hago si la cantidad de pago deducido es incorrecto?	¿Qué hago si la cantidad cobrada en el pago es incorrecta?	1
+tarjeta de credito	Tarjeta Visa de débito.	0
+?Como puedo pagar mediante Western Union?	¿Cómo puedo pagar a través de Western Union?	1
+Como hablar con alguien en el departamento de disputa	Me gustaría hablar con alguien antes de comprar.	0
+Como hablar con alguien en el departamento de disputa	¿Puedo hablar con un agente de atención al cliente?	0
+?Cómo puedo pagar en mi moneda local?	¿Puedo pagar en mi moneda local?	0
+?Por qué tengo un cargo en mi tarjeta de crédito cuando yo no tenía un pedido?	Recibo un mensaje de error cuando hago mi pago con tarjeta de crédito.	0
+?Por qué tengo un cargo en mi tarjeta de crédito cuando yo no tenía un pedido?	¿Por qué hubo un fallo al pagar con mi tarjeta de crédito?	0
+Abrí una disputa y ?qué debo hacer a continuación?	Abrí una disputa y, por ahora, nada.	1
+Abrí una disputa y ?qué debo hacer a continuación?	Abrí una disputa y no obtuve respuesta del vendedor.	0
+no he recibido mi reembolso	No he recibido mi reembolso por un pedido sospechoso cerrado.	1
+?Cómo puedo recibir un reembolso a través de Boleto?	¿Cómo recibo un rembolso a través de Boleto?	1
+?Cómo puedo recibir un reembolso a través de Boleto?	¿Cómo recibo un reembolso por Boleto?	0
+?Dónde está mi pedido?	¿Dónde está mi reembolso?	0
+Cuándo recibiré mi reembolso	¿Cuándo recibiré el reembolso?	1
+donde esta el dinero de mi pedido de rembolso	¿Pueden darme la página web donde hacer el seguimiento de mi pedido?	0
+?Cómo reviso una valoración?	¿Cómo elimino una valoración?	0
+?Cómo reviso una valoración?	¿Cómo cancelo una valoración?	0
+?Es OK enviar a?	¿Cuánto es enviar a Canadá?	0
+El producto está roto	¿Qué puedo hacer si el producto pedido no está disponible?	0
+Ahora tengo una disputa, ?qué puedo hacer?	Tengo una tarjeta Visa de débito. ¿Qué puedo hacer?	0
+Ahora tengo una disputa, ?qué puedo hacer?	Necesito presentar una disputa, pero el plazo se ha agotado. ¿Qué puedo hacer?	1
+?Como puedo pagar a traves de transferencia bancaria?	¿Por qué no puedo pagar a través de transferencia bancaria en pedidos combinados?	0
+Aún no he recibido un reembolso	No he recibido un reembolso por la disputa.	1
+Aún no he recibido un reembolso	No he recibido mi reembolso.	1
+?Cómo puedo recuperar mi dinero?	¿Cuándo debería recuperar mi dinero?	0
+?Cómo recibiré el reembolso de mi pedido?	¿Cuándo recibiré mi reembolso después de cancelar el pedido?	1
+?Por qué estaba cerrado mi pedido?	Decía que mi pedido estaba cancelado. ¿Saben por qué?	0
+?Por qué estaba cerrado mi pedido?	¿Por qué dice que mi pedido ha sido cerrado?	1
+?Qué pasa con mi reclamación?	Tengo este pedido cerrado por el sistema. ¿Qué pasa con mi dinero?	1
+El producto no es bueno y no puedo ponerme en contacto con el vendedor	El producto no es bueno y no puedo contactar con el vendedor.	1
+?Cómo extiendo el Plazo de Procesamiento de un pedido?	¿Cómo extiendo el tiempo de procesamiento?	1
+?Cómo extiendo el Plazo de Procesamiento de un pedido?	¿Cómo hago un pago con el reembolso de un pedido?	0
+?Cómo puedo subir mi vídeo en respuesta a una mediación de disputa?	¿Cómo subo mi vídeo en respuesta a una disputa de mediación?	1
+?Cuándo tengo el reembolso?	¿Cuándo puedo recibir el reembolso?	1
+Contactar con una persona y no con una máquina	quiero hablar con una persona	1
+Contactar con una persona y no con una máquina	como hablo con una persona	1
+Contactar con una persona y no con una máquina	hablar con una persona en vivo	1
+Contactar con una persona y no con una máquina	Quiero hablar con una persona, no con un robot.	1
+Contactar con una persona y no con una máquina	eres una persona	0
+tengo una duda	Tengo una pregunta sobre mis cupones.	0
+tengo problemas para pagar	Tengo problemas para crear una cuenta.	0
+El pedido no aparece en mi cuenta	Mi cuenta aparece en español, necesito inglés.	0
+El pedido no aparece en mi cuenta	¿Por qué me han cobrado dos veces en mi cuenta por el pedido?	0
+El vendedor dice que no tiene en stock y me pide que cancele	El vendedor no tiene los zapatos que pedí, pero no me contesta.	0
+?Cómo denuncio un vendedor?	¿Cómo denuncio a un vendedor?	1
+?Cómo denuncio un vendedor?	¿Cómo denuncio un email de phishing?	0
+?Por qué fue cancelada el pedido, pero no se devolvió el dinero?	¿Por qué fue cancelado el pedido pero no me devolvieron el dinero?	1
+?Por qué no puedo dejar comentarios para mi pedido?	¿Por qué dice que no tengo autorización para dejar valoraciones?	0
+Cuándo voy a recibir mi dinero por el pedido cancelado	¿Cuándo voy a recibir mi pedido?	0
+Cuándo voy a recibir mi dinero por el pedido cancelado	¿Cuándo recibiré el dinero por el pedido cancelado?	1
+El número de cuenta bancaria no es válido	¿Por qué el número de seguimiento no es válido?	0
+El vendedor no me contesta con respecto a mi pedido?	El vendedor no me contesta.	1
+El vendedor no me responde	El vendedor me ignora.	1
+Tengo un problema con un vendedor	Tengo un problema con un mal vendedor.	1
+Tengo un problema con un vendedor	Tengo un problema con un vendedor. ¿Puede ayudarme?	1
+Tarjeta de debito	Tarjeta de crédito.	0
+Tarjeta de debito	Tarjeta de débito.	1
+no puedo realizar el pago	¿Por qué no puedo hacer el pago?	0
+?Cómo establecer tarjeta principal?	¿Cómo elijo una tarjeta principal?	0
+?El producto que compré no funciona?	Nunca recibí el producto que compré.	0
+?Qué pasa si el producto que me dieron no coincide con el de la descripción?	No puedo hacer el seguimiento de mi pedido usando el número de seguimiento que me dieron. ¿Qué puedo hacer?	0
+?Qué puedo hacer, si el proveedor no responde a la disputa?	El vendedor no responde a mi disputa, ¿qué puedo hacer?	1
+?Qué puedo hacer, si el proveedor no responde a la disputa?	El proveedor no cancela el pedido. ¿Qué puedo hacer?	0
+¿Cuándo recibiré el reembolso después de cerrar el pedido?	¿Cuándo recibiré el reembolso después de que finalice el pedido?	1
+¿Cuándo recibiré el reembolso después de cerrar el pedido?	¿Cuándo recibiré el reembolso tras cerrar disputa?	0
+Tengo un problema con una disputa	Tengo un problema con la disputa.	1
+Tengo un problema con una disputa	Tengo un problema con un cupón.	0
+tengo una consulta	Tengo una pregunta sobre una disputa.	0
+?Cómo cambio monedas app?	¿Cómo cambio mi dirección?	0
+?Cómo hacer el pago a través de Boleto?	¿Cómo recibo un rembolso a través de Boleto?	0
+?Cómo hacer el pago a través de Boleto?	¿Cómo hago el pago por Boleto?	1
+?Cómo hacer el pago a través de Boleto?	¿Cómo pago con Boleto?	1
+?Cómo puedo subir mi vídeo en respuesta a una disputa de mediación?	¿Cómo subo mi vídeo en respuesta a una disputa de mediación?	1
+?Por qué ha sido desactivada mi cuenta?	¿Por qué mi cuenta fue desactivada?	1
+?Puedo cancelar un pedido que ya pagué?	He recibido un email diciendo que no pagué el pedido.	0
+Cómo modificar una disputa	¿Cómo puedo modificar un pedido?	0
+Cómo modificar una disputa	¿Cómo modifico una disputa?	1
+El código de verificación no funciona.	El código de verificación no funciona, ¿qué puedo hacer?	1
+Alguien me ayuda para resolver mi disputa	Necesito ayuda con mi Visa.	0
+Aranceles de aduana	La aduana se quedó el paquete.	0
+?Cómo recibir una devolución mediante Western Union?	¿Cómo recibo un reembolso vía Western Union?	1
+?Dónde puedo reclamar?	¿Puedo reclamar un reembolso?	0
+?Por qué no he podido configurar mi dirección de envío?	¿Por qué dice que he cambiado mi dirección de envío?	0
+?Puedo chatear ahora con mi proveedor?	El proveedor no está de acuerdo con mi disputa.	0
+Cómo imprimir la factura de mi pedido	¿Cómo puedo imprimir la factura de mi pedido?	1
+Cada vez que voy a pagar me dice que ha ocurrido un error desconocido	Ahora me ha llegado un email que dice que mi pedido ha sido cancelado porque no pagué.	0
+Dice que mi cuenta no está autorizada para hacer compras	Dice que mi cuenta no existe.	0
+Dice que mi cuenta no está autorizada para hacer compras	Soy incapaz de cambiar mi dirección de email. Dice que ya está en uso.	0
+¿Cómo pagar el pedido mediante Transferencia Bancaria?	He hecho el pago por transferencia bancaria, pero mi pedido sigue pendiente de pago.	0
+¿Cómo puedo pagar con WebMoney?	Pagar con WebMoney.	0
+Ya estamos otra vez dando vueltas sin entendernos. Podria atenderme alguien?	Cómo usar un cupón otra vez.	0
+Ya estamos otra vez dando vueltas sin entendernos. Podria atenderme alguien?	¿Puedo ver mi cuenta bancaria otra vez si no la imprimí?	0
+Ya estamos otra vez dando vueltas sin entendernos. Podria atenderme alguien?	Necesito puntuar un pedido otra vez, pero la web no me deja.	0
+Ya estamos otra vez dando vueltas sin entendernos. Podria atenderme alguien?	¿Por qué mi pedido está cerrado otra vez por razones de seguridad?	0
+Ya estamos otra vez dando vueltas sin entendernos. Podria atenderme alguien?	¿Necesito hacer el pago otra vez si está en Procesando pago?	0
+Tengo un problema con mi cuenta	Tengo un problema con el seguimiento de mi pedido.	0
+Tengo un problema con mi cuenta	Tengo un problema con el éxito de mi pago.	0
+Porque el total del pedido es mayor a la suma del valor individual de cada articulo que pedi	¿Cuál es el nombre de la compañía del envío?	0
+no puedo mandar fotos en la disputa	No puedo cargar imágenes en la disputa.	1
+Lo siento, este pedido ha fallado debido a problemas con la conexión a Internet. Tu puedes volver al carrito de compras.	Este pedido ha fallado debido a problemas con la conexión a internet.	1
+Hice un pedido	No hice un pedido. Alguien usó mi tarjeta.	0
+Hice un pedido	Hice un pedido antes y el pedido no se completó porque el vendedor fue suspendido.	1
+hay alguien ahi?	alguien que me pueda ayudar	0
+?Cómo pagar con la tarjeta de crédito vinculada?	¿Cómo cambio la tarjeta de crédito?	0
+?Cómo me pueden devolver el dinero?	¿Cómo me devuelven el dinero?	1
+?Cómo me pueden devolver el dinero?	No recibí el pedido, ¿cómo me devuelven el dinero?	1
+?Cómo puedo hablar con un vendedor?	¿Cómo hablo con un vendedor?	1
+?Cómo puedo hablar con un vendedor?	¿Cómo puedo contactar con el vendedor?	0
+?Cómo puedo saber si mi pedido ha sido cancelado o no?	¿Cómo puedo recibir mi reembolso si mi pedido ha sido cerrado o cancelado?	0
+?Cómo puedo saber si mi pedido ha sido cancelado o no?	¿Cómo saber si mi pedido está cancelado o no?	1
+?Cuándo me devuelven el dinero? El pedido no ha llegado.	No me devuelven el dinero por el pedido.	0
+?Dónde puedo ver mi información personal?	¿Dónde puedo ver mi cuenta?	0
+?Dónde puedo ver mi información personal?	¿Dónde puedo ver la lista de mi compra?	0
+?El paquete llegará a mi domicilio?	¿Mi pedido se entrega en mi domicilio?	1
+?En qué cuenta recibiré mi reembolso?	¿Recibiré mi pedido en mi país?	0
+?Por qué cancelaron mi pedido?	Mi pedido fue cerrado porque ambas partes lo cancelaron.	0
+?Por qué no recupero el dinero?	¿Por qué no me devuelven el dinero?	1
+?Qué otras formas tengo de hacer el pago?	Tengo una tarjeta de débito, pero no puedo hacer el pago.	0
+?Qué pasa si el vendedor no envía el pedido antes del finalizar el tiempo de procesamiento	¿Qué pasa si el vendedor no envía mi pedido antes del tiempo de procesamiento?	1
+?Qué pasa si el vendedor no envía el pedido antes del finalizar el tiempo de procesamiento	Sobre el procesamiento del pedido.	0
+Cómo pago mi pedido a través de Westen Unión. ?Cuál es el siguiente paso?	¿Cómo envío mi pago a través de transferencia bancaria?	0
+como te llamas	¿Por qué mi email aparece como registrado?	0
+El pedido no llegó y se ha terminado	El tiempo de procesamiento ha terminado y el vendedor no ha enviado la mercancia.	0
+El vendedor no contesta y no envía el pedido	¿Recibiré automáticamente un reembolso si el vendedor no envía mi pedido?	1
+El vendedor rechazó una reclamación	¿Puedo presentar una reclamación contra el vendedor?	0
+El vendedor rechazó una reclamación	Necesito presentar una reclamación contra un vendedor.	0
+Quiero hablar con un humano	Necesito hablar con un humano.	1
+Quiero hablar con un humano	Necesito hablar con un representante.	1
+No he recibido mis productos	No he recibido mis monedas.	0
+No he recibido mis productos	No he recibido ninguno de mis pedidos aún.	1
+No he recibido mis productos	He pedido productos, pero no he recibido mi pedido.	1
+No he recibido mis productos	Mis productos no han llegado.	1
+Tengo problemas con una disputa	Tengo problemas con la autorización para acceder a mi cuenta.	0
+Tengo problemas con el reembolso de mi dinero	tengo problemas con mi cuenta	0
+Tengo problemas con el reembolso de mi dinero	tengo problemas con mi pedido	0
+Tengo problemas con el reembolso de mi dinero	tengo problemas con la pagina	0
+no puedo pagar mi pedido	¿Por qué no puedo pagar mi pedido?	0
+no puedo pagar mi pedido	No puedo pagar mi pedido con tarjeta Visa.	0
+NO PUEDO HACER EL PAGO	¿Puedo hacer el pago en divisa australiana?	0
+NO PUEDO HACER EL PAGO	No puedo hacer el pago de mi pedido.	1
+NO PUEDO HACER EL PAGO	No puedo hacer el pago vía tarjeta de crédito.	0
+no he recibido mi pedido	Pagué mi pedido y no lo he recibido.	1
+Mi cuenta esta desactivada	No puedo iniciar sesión y dice que mi cuenta fue desactivada.	1
+Error en el pago	Un error ha ocurrido procesando mi pago.	1
+Error en el pago	Recibo un error cuando hago el pedido.	0
+entonces no eres humano	eres un robot	1
+entonces no eres humano	Necesito un asistente humano.	1
+?Cómo puedo recibir un reembolso a través de WebMoney?	¿Cómo recibo un reembolso si pagué vía WebMoney?	1
+?Cómo pagar con tarjeta de crédito?	¿Cómo puedo pagar los productos con tarjeta de crédito?	1
+?Cómo pagar con tarjeta de crédito?	¿Cómo pago con tarjeta de crédito?	1
+?Cómo pagar con tarjeta de débito?	¿Puedo pagar con tarjeta de débito?	0
+?Cómo puedo borrar mi información?	¿Cómo borrar mi pedido?	0
+?Cómo puedo borrar mi información?	¿Cómo elimino mi información?	1
+?Cómo puedo borrar mi información?	Quiero borrar mi valoración.	0
+?Cómo puedo comprar un artículo	Cuando intento comprar un artículo en la Cesta, dice que no está disponible. ¿Qué puedo hacer?	0
+?Cómo puedo comprar un artículo	¿Puedo pagar un artículo usando Skrill?	0
+?Cómo puedo pagar mis pedidos en un sólo pago?	¿Cómo puedo pagar mis pedidos en un solo pago?	1
+?Cómo puedo pagar mis pedidos en un sólo pago?	¿Puedo pagar todos los pedidos en un pago?	0
+?Cómo puedo pagar mis pedidos en un sólo pago?	¿Cómo puedo pagar todos mis pedidos a la vez?	1
+?Cómo puedo pagar por mi transacción?	¿Cómo pago mi transacción?	1
+?Cómo puedo pagar por mi transacción?	¿Cómo puedo confirmar que mi transacción es segura?	0
+?como puedo hacer para salvar mis pedidos, que son muchos, si mi dirección viene incompleta?	¿Cómo puedo hacer múltiples pedidos del mismo vendedor para que se envíe todo junto?	0
+?El número de pedido es igual que el número de cuenta?	El número de cuenta es incorrecto.	0
+?Llegará el pedido a mi dirección?	¿Llegará mi pedido a mi dirección?	1
+?Llegará el pedido a mi dirección?	He hecho el pedido, pero quiero cambiar mi dirección de envío.	0
+?Me reembolsan el dinero si cancelo el pedido?	Si cancelo el pedido, ¿recibiré un reembolso?	1
+?Me reembolsan el dinero si cancelo el pedido?	Si cancelo mi pedido, no necesito dinero, ¿verdad?	1
+?Por qué el proveedor no se pone en contacto conmigo?	¿Se puede poner vuestro Equipo de Seguridad de Cuentas en contacto conmigo?	0
+?Por qué en mi estatus indica esperando mi pago?	Sigo esperando mi reembolso.	0
+?Por qué no me han dado la información de envío de mi pedido?	¿Me van a dar la información de envío?	0
+?Por qué no me han dado la información de envío de mi pedido?	¿Cuándo puedo recibir la información de envío?	0
+?Por qué no puedo pagar mi pedido?	¿Por qué no puedo ver mi pedido?	0
+?Por qué no se ha mostrado mi comentario?	¿Por qué no se ha publicado mi valoración?	1
+Cómo puedo recibir un reembolso a través de Western Union	Hice un pago a través de Western Union.	0
+Cómo puedo recibir un reembolso a través de Western Union	Reembolso por Western Union.	0
+Cargo no autorizado	¿Por qué hay un cargo no autorizado?	0
+Cargo no autorizado	Cargo adicional por envío.	0
+Cuando hago un pago el pedido se cancela	¿Necesito iniciar sesión en la cuenta de DOKU cuando hago el pago?	0
+Disputa abierta, ?qué puedo hacer ahora?	Ahora tengo una disputa, ¿qué puedo hacer?	1
+Disputa abierta, ?qué puedo hacer ahora?	He abierto una disputa, ¿qué hago ahora?	1
+El pedido no se ha pagado	El pedido se ha perdido.	0
+El pedido no se ha pagado	Se ha congelado el pedido.	0
+El producto ha sido devuelto al vendedor. Cuándo puedo conseguir mi dinero	¿Cuándo daría el dinero del producto?	1
+El sistema no reconoce mi dirección email	El sistema no reconoce mi dirección de email.	1
+El sistema no reconoce mi dirección email	Mi dirección de email no está escrita correctamente.	0
+El sistema no reconoce mi dirección email	El sistema no aceptó mi dirección.	1
+El sistema no reconoce mi dirección email	¿Cómo cambio ahora mi dirección en el sistema?	0
+El sitio no me permite abrir una disputa	Me gustaría abrir una disputa por el pedido.	0
+El sitio no me permite abrir una disputa	No sé cómo abrir una disputa.	0
+entonces como puedo hacer para salvar mis pedidos, que son muchos, si mi dirección viene incompleta?	¿Qué puedo hacer si un proveedor usa mis imágenes sin mi permiso?	0
+Alguien ha utilizado mi tarjeta de crédito sin autorización	Alguien usó mi tarjeta de crédito sin autorización.	1
+Alguien ha utilizado mi tarjeta de crédito sin autorización	Alguien ha robado mi tarjeta de crédito. ¿Qué puedo hacer?	1
+Alguien ha utilizado mi tarjeta de crédito sin autorización	¿Cómo recibo reembolsos si mi tarjeta de crédito ha cambiado?	0
+Alguien ha utilizado mi tarjeta de crédito sin autorización	¿Por qué el pago ha sido hecho dos veces en mi tarjeta de crédito?	0
+quiero hablar con una persona	Quiero hablar con una persona, no con un robot.	1
+Hola. Pedí dos fundas de tablet y me han llegado hoy y no son compatibles con mi tablet me gustaría saber como devolverlas	Me gustaría saber cuándo recibiré mi reembolso.	0
+tengo una orden y al revisar el tracking indica que ha sido cancelada y no tengo idea que sucedio ni devolvieron el dinero	¿Significa eso que tengo que personalizar el pedido?	0
+quiero mi dinero de vuelta por favor	Quiero enviarlo de vuelta.	0
+QUIERO HACER UNA CONSULTA	Quiero hacer un pedido.	0
+QUIERO HACER UNA CONSULTA	Quiero cancelar una compra.	0
+que es una apelacion	¿Es esta una página real?	0
+pasame con un agente	necesito hablar con un agente	1
+pasame con un agente	Me gustaría hablar con un agente de atención al cliente.	1
+pague un pedido el cual nunca llego a mi casa	Nunca recibí mi pedido.	0
+pague un pedido el cual nunca llego a mi casa	Esperé para mi reembolso y el vendedor nunca respondió.	0
+no puedo comprar	No puedo comprar nada.	1
+no he recibido un reembolso	No he recibido mi reembolso, que fue aprobado.	0
+no he recibido el pedido	No he recibido el pedido enviado.	1
+no he recibido el pedido	No he recibido mi pedido.	1
+necesito ayuda con un reembolso	necesito de tu ayuda	0
+me han devuelto menos de lo de que pague al cancelar un pedido	¿Por qué me han reembolsado menos dinero del que me cobraron?	0
+Hola buenos días, hice una compra que no llegó fuera del plazo de tiempo y yo estaba de viaje y no pude verla hasta que regresé a casa y ya se había pasado el plazo de abrir disputa.	Acabo de comprar un producto y necesito que lo envíen a una dirección diferente.	0
+el vendedor no me contesta	El vendedor no me responde.	1
+el vendedor no contesta	El vendedor no era honesto.	0
+el vendedor no contesta	El vendedor no responde.	1
+El vendedor me ha dado un número de seguimiento que no se corresponde con mi pedido.	Me han dado un número de seguimiento para productos con destino en otro país.	1
+El vendedor me ha dado un número de seguimiento que no se corresponde con mi pedido.	Me han dado mi número de seguimiento, pero no puedo hacer el seguimiento.	0
+El vendedor me ha dado un número de seguimiento que no se corresponde con mi pedido.	¿Qué pasa si el vendedor me dio un número de seguimiento falso?	0
+Deja de mandarme eso	Mi ventana de mensajes no me deja escribir una respuesta a un vendedor. ¿Por qué pasa esto?	0
+contactar con agente	¿Puedo chatear con un agente?	1
+contactar con agente	Necesito contactar con el vendedor del pedido.	1
+?Cómo encuentro a un buen vendedor?	¿Cómo encuentro un vendedor?	0
+?Cómo ganar cupones?	¿Cómo puedo ganar cupones?	1
+?Cómo ganar cupones?	¿Cómo puedo solucionar mi problema con cupones?	0
+?Cómo hacer una compra a plazos?	¿Cómo hago una compra a plazos?	1
+?Cómo modificar el reembolso de la disputa?	¿Cómo modifico el reembolso en la disputa?	1
+?Cómo puedo borrar de la lista productos que ya he recibido?	¿Cómo puedo eliminar los productos que he recibido de la lista?	1
